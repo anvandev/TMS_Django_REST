@@ -1,1 +1,1 @@
-# TMS_Django_REST
+Training repository of TMS course (Django REST framework and Swagger).
